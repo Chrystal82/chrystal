@@ -1,5 +1,5 @@
 body {
-	background: E3D8F8;
+	background: #E3D8F8;
 }
 
 
@@ -9,7 +9,7 @@ h1 {
 }
 
 table {
-	border: 2px solid #544E48;
+	border: 2px solid #1C0447;
 	background: #CAB5F0;
 	width: 80%;
 	height: 500px;
@@ -17,7 +17,7 @@ table {
 }
 
 td {
-	border: 1px solid #544E48;
+	border: 1px solid #1C0447;
 	text-align: center;
 }
 

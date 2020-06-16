@@ -1,16 +1,16 @@
 body {
-	background: linen;
+	background: E3D8F8;
 }
 
 
 h1 {
 	text-align: center;
-	color: #544E48;
+	color: #270C57;
 }
 
 table {
 	border: 2px solid #544E48;
-	background: #E7E2DE;
+	background: #CAB5F0;
 	width: 80%;
 	height: 500px;
 	margin: auto;
@@ -22,5 +22,5 @@ td {
 }
 
 thead {
-	background: #C0BBB7;
+	background: #9472D0;
 }

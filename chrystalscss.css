@@ -1,0 +1,19 @@
+body {
+	background: linen;
+}
+
+h1, h2, h3 {
+	color: #174C7A;
+
+}
+
+p {
+	color: #88366D;
+}
+
+h4 {
+	text-align: center;
+	color: #54113E;
+	border: 3px solid #88366D;
+}
+

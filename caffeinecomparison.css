@@ -1,0 +1,26 @@
+body {
+	background: linen;
+}
+
+
+h1 {
+	text-align: center;
+	color: #544E48;
+}
+
+table {
+	border: 2px solid #544E48;
+	background: #E7E2DE;
+	width: 80%;
+	height: 500px;
+	margin: auto;
+}
+
+td {
+	border: 1px solid #544E48;
+	text-align: center;
+}
+
+thead {
+	background: #C0BBB7;
+}

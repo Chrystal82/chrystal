@@ -1,0 +1,15 @@
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+	object-fit: cover;
+	height: 500px;
+}
+
+p {
+	font-family: Suez One;
+	font-size: 40px;
+	border-bottom: 2px solid red;
+	padding-bottom: 20px;
+	width: 60%;
+}
